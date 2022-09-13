@@ -4,6 +4,18 @@
 
 팀원 : 김태현,방준원,서예슬,이예지,장기훈
 
+각 팀별 깃허브 주소
+
+김태현 : https://github.com/tastebread/
+
+방준원 : https://github.com/Bang-JW
+
+이예지 : https://github.com/Leeyeji13
+
+서예슬 : https://github.com/yyeseull
+
+장기훈 : https://github.com/todd-jang
+
 목차 : 
 
       1.프로젝트 개요
